@@ -2,6 +2,7 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ButtonColorChanger" preserve="all" />
     <type fullname="CountdownTimerFromGitHub" preserve="all" />
+    <type fullname="FixedTextArea" preserve="all" />
     <type fullname="Limitty.Calculus2Course.PanelController" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
